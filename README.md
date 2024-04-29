@@ -27,4 +27,16 @@ pytest
 ## Автор
 
 Kodland
+
 Alishka
+
+
+Egorka
+
+alizade
+
+
+yegor sazonov
+
+Juli
+
